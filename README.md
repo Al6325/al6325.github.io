@@ -8,7 +8,7 @@
 - **location:** Earth
 
 ## my projects 
-- [AdminOS](https://al6325.github.io/adminos/)
+- [AdminOS](https://al6325.github.io/adminos/) (Started 2026/01/07)
 
 ## statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al6325&show_icons=true&theme=radical)
